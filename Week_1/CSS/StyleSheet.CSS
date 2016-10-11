@@ -19,7 +19,6 @@ aside {
 section {
     width: 20%;
     margin-left: 10%;
-    float:left;
     text-align: center;
     
 }
@@ -27,4 +26,8 @@ section {
 h1 {
     text-align: center;
     
+}
+
+#MainImage {
+    float: left;
 }
