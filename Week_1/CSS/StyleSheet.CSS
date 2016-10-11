@@ -10,6 +10,11 @@ body {
     font-family: ariel; 
 }
 
+aside {
+    float: right;
+    
+}
+
 section {
 
 }
